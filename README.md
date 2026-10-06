@@ -29,15 +29,6 @@
 
 ## 🧑‍💼 Experience
 
-### 💼 Software Developer — WonderBiz Technologies Pvt. Ltd.
-📍 Thane | 🗓 Sept 2025 – Nov 2025  
-- Built **Asset Hierarchy System** using ASP.NET Core & Clean Architecture  
-- Implemented **JWT Authentication & Authorization**  
-- Used **RabbitMQ** for event-driven communication  
-- Applied **Dependency Injection & Repository Pattern**  
-
----
-
 ### 📱 Android Developer Intern — DOI Soft Tech Pvt. Ltd.
 🗓 July 2024 – Oct 2024  
 - Built scalable **content restriction system** (↑ retention by 83%)  
